@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BottomNavigationBar</string>
+    <string name="home_title">Home</string>
+    <string name="profile_title">Profile</string>
+    <string name="details_title">Info</string>
+    <string name="tips_title">Tips</string>
+    <string name="logout_title">Logout</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="profile_fragment">Profile Fragment</string>
+    <string name="information_fragment">Information Fragment</string>
+    <string name="tips_fragment">Tips Fragment</string>
+    <string name="logout">Logout</string>
+</resources>

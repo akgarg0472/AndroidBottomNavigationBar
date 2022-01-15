@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bottom_nav_bg_color">#2d2d2d</color>
+    <color name="bottom_nav_icon_tint">#d0d0d0</color>
+    <color name="bottom_nav_icon_tint_selected">#ffffff</color>
+</resources>
